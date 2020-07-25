@@ -15,3 +15,7 @@ img {
 #newLine {
     display: block;
 }
+
+#windowHeader {
+    border-bottom: solid 1px #000;
+}
