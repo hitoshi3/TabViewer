@@ -44,6 +44,7 @@ $(function(){
                     a.href = tab.url;
                     a.id = "link";
                     a.innerHTML = tab.url;
+                    a.target = "_blank";
         
                     li.appendChild(favicon);
                     li.appendChild(liTitle);
