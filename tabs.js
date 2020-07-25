@@ -57,7 +57,7 @@ $(function(){
     });
 
 
-    $('#list_ul').on('click', '#link', function(e){
-        chrome.tabs.create({url: $(this).attr("href")});
-    });
+    // $('#list_ul').on('click', '#link', function(e){
+    //     //chrome.tabs.create({url: $(this).attr("href")});
+    // });
 });
